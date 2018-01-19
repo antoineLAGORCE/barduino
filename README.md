@@ -1,5 +1,5 @@
 # BARDUINO ARNOUX LAGORCE GUADALIXhttps:
-![ALLER POLYTECH NICE-SOPHIA](https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjN36i8yePYAhXMZVAKHR3vBK8QjRwIBw&url=http%3A%2F%2Funice.fr%2Fformation%2Fformation-initiale%2Fepuing54%2F%40%40formation_fiche_view&psig=AOvVaw2qAfsdHXfoouYxw1p5y5uU&ust=1516435727762628)
+![ALLER POLYTECH NICE-SOPHIA](https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjN36i8yePYAhXMZVAKHR3vBK8QjRwIBw&url=http%3A%2F%2Funice.fr%2Fformation%2Fformation-initiale%2Fepuing54%2F%40%40formation_fiche_view&psig=AOvVaw2qAfsdHXfoouYxw1p5y5uU&ust=1516435727762628 "logo polytech")
 
 ## DESCRIPTION DU PROJET
   Nous allons sortir du traditionnel. Notre projet se base sur le même principe qu'un barduino comme on les a déja vu auparavant
