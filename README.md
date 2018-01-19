@@ -15,4 +15,5 @@ de placer certains aimant et utiliser l'effet hall comme dans les roues de vélo
   - [ ] Des rails en métal bien évidentment avec un diamètre de 22cm;
   - [ ] 6 Doseurs de 25ml;
   ### Dont le matériel à fabriquer est
-  - [ ] ![Support por les bouteilles](https://pmcdn.priceminister.com/photo/1138043004.jpg "Support por les bouteilles")
+  - [ ] Support por les bouteilles
+  ![Support por les bouteilles](https://pmcdn.priceminister.com/photo/1138043004.jpg "Support por les bouteilles")
