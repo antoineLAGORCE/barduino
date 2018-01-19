@@ -1,5 +1,5 @@
 # BARDUINO ARNOUX LAGORCE GUADALIX
-![ALLER POLYTECH NICE-SOPHIA](https://camo.githubusercontent.com/5c5e9e545ffa63d292d8f735534ffdcf13b69eec/687474703a2f2f66722e61636164656d69632e72752f70696374757265732f667277696b692f38302f506f6c79746563686e696365736f706869612e706e67)
+![ALLER POLYTECH NICE-SOPHIA](http://www.university-directory.eu/instlogos/FR-Polytech-Nice-Sophia.jpg)
 
 ## DESCRIPTION DU PROJET
   Nous allons sortir du traditionnel. Notre projet se base sur le même principe qu'un barduino comme on les a déja vu auparavant
