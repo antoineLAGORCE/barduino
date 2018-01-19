@@ -1,5 +1,5 @@
 # BARDUINO ARNOUX LAGORCE GUADALIX
-CE PROJET EST REALISE DANS LE CADRE DE/
+CE PROJET EST REALISE DANS LE CADRE DE:
 ![ALLER POLYTECH NICE-SOPHIA](http://unice.fr/formation/formation-initiale/epuing54/++resource++unice.gof.images/logos/epu.png)
 
 ## DESCRIPTION DU PROJET
@@ -13,6 +13,7 @@ de placer certains aimant et utiliser l'effet hall comme dans les roues de vélo
 ## LISTE DU MATRIEL NECESSAIRE
   * Train électrque;
   * Des rails en métal bien évidentment avec un diamètre de 22cm;
-  * 6 Doseurs;
+  * 6 Doseurs de 25ml;
   ### Dont le matériel à fabriquer est
   * Support por les bouteilles
+  - [ ] CACA
