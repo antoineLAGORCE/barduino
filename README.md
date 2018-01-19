@@ -11,6 +11,9 @@ survient alors: comment faire stopper le train là où il le faut? C'est là que
 de placer certains aimant et utiliser l'effet hall comme dans les roues de vélo pour renvoyer des informations sur la place où se trouve la péane avec le verre et en fonction de ça le faire bouger là où le buveur desire.
 
 ## LISTE DU MATRIEL NECESSAIRE
+  - [x] Cerveau moteur;
+  - [x] Moteur continu;
+  - [ ] Tige métalique;
   - [ ] Train électrique;
   - [ ] Des rails en métal bien évidentment avec un diamètre de 22cm;
   - [x] 6 Doseurs de 25ml;
