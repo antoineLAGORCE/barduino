@@ -1,5 +1,5 @@
 # BARDUINO ARNOUX LAGORCE GUADALIX
-![ALLER POLYTECH NICE-SOPHIA](http://www.university-directory.eu/instlogos/FR-Polytech-Nice-Sophia.jpg)
+![ALLER POLYTECH NICE-SOPHIA](http://unice.fr/formation/formation-initiale/epuing54/++resource++unice.gof.images/logos/epu.png)
 
 ## DESCRIPTION DU PROJET
   Nous allons sortir du traditionnel. Notre projet se base sur le même principe qu'un barduino comme on les a déja vu auparavant
