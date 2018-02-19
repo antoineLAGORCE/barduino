@@ -14,8 +14,8 @@ de placer certains aimant et utiliser l'effet hall comme dans les roues de vélo
   - [x] Servo moteur;
   - [x] Moteur continu;
   - [ ] Tige métalique;
-  - [ ] Train électrique;
-  - [ ] Des rails en métal bien évidentment avec un diamètre de 22cm;
+  - [ ] Train électrique; PLUS BESOIN
+  - [ ] Des rails en métal bien évidentment avec un diamètre de 22cm; PLUS BESOIN
   - [x] 6 Doseurs de 25ml;
   ### Dont le matériel à fabriquer est
   - [ ] Support pour les bouteilles
