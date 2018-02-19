@@ -10,3 +10,14 @@ Nous avons réfléchi a la manière dont le mouvement entre les bouteilles et le
 tourner le verre autour des bouteilles disposées en cercle grâceà l'aide de rails disposés d'un système comme celui des train
 électrique. L'idéé est de faire passer du courant dans les rails pour faire avancer le train. Celui-ci s'arrêterai à l'aide
 d'aimants. Nous avons réfléchi aussi aux pièces à commander pour la prochaine séance.
+
+Séance du 06 Février 2028:
+
+Nous avons finallement mis de côté l'idéé de faire tourner le verre autour du support pour passer à faire tourner le support
+lui-même. Une fois le support de bouteilles reçu nous avons constater que c'était possible de fixer un moteur pas à pas qui
+fera tourner le support. En conséquence notre verre restera fixe.
+
+Séance du 19 Février 2018:
+
+Nous avons commencé à coder la partie qui concerne le moteur qui va faire tourner le support. Le but est de faire reconnaître
+à la carte de quel côté est plus proche la bouteille désirée pour faire tourner le moteur dans le sens correct. 
