@@ -13,10 +13,9 @@ de placer certains aimant et utiliser l'effet hall comme dans les roues de vélo
 ## LISTE DU MATRIEL NECESSAIRE
   - [x] Servo moteur;
   - [x] Moteur continu;
+  - [x] Moteur pas à pas
   - [ ] Tige métalique;
-  - [ ] Train électrique; PLUS BESOIN
-  - [ ] Des rails en métal bien évidentment avec un diamètre de 22cm; PLUS BESOIN
   - [x] 6 Doseurs de 25ml;
-  ### Dont le matériel à fabriquer est
-  - [ ] Support pour les bouteilles
+  ### Dont le matériel à commander est
+  - [x] Support pour les bouteilles
   ![Support por les bouteilles](https://pmcdn.priceminister.com/photo/1138043004.jpg "Support por les bouteilles")
