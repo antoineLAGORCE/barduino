@@ -13,3 +13,6 @@ http://www.rueducommerce.fr/produit/touslescadeaux-train-electrique-de-noel-24-p
 
 Liens pour doseurs :
 https://www.cdiscount.com/vin-champagne/accessoires-vin/distributeur-de-boisson-design-distributeur-alcoo/f-1290911-tec4260435991311.html?idOffre=135531833#mpos=2|mp
+
+Seance du 19/02/2018 :
+J'ai travaillé sur le servo-moteur, trouvé un moteur assez puissant pour lever les valves et regardé quelques codes pour me souvenir de comment ils fonctionnent. J'ai fait fonctionné la puce HC-06 qui ne fonctionnait pas la semaine dernière. 
