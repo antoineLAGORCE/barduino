@@ -16,7 +16,7 @@ nous avons réalisé un planning peu détailler de ce que nous allons faire.
 
 
 séance du 19/02/2018
-nous avons fini le programme bluetooth 
+nous avons fini le programme bluetooth.
 on a fait une liste des objets a découpés:
 - 6 cercles (diametre de 8cm) qui vont etre fixés sous les dosseurs pour répartir et augmenter la force de la tige qui va ouvrir les valves
 - une tige de longueur 13 cm et de diamtre 1 cm
