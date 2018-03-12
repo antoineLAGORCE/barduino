@@ -11,7 +11,7 @@ tourner le verre autour des bouteilles disposées en cercle grâceà l'aide de r
 électrique. L'idéé est de faire passer du courant dans les rails pour faire avancer le train. Celui-ci s'arrêterai à l'aide
 d'aimants. Nous avons réfléchi aussi aux pièces à commander pour la prochaine séance.
 
-Séance du 06 Février 2028:
+Séance du 06 Février 2018:
 
 Nous avons finallement mis de côté l'idéé de faire tourner le verre autour du support pour passer à faire tourner le support
 lui-même. Une fois le support de bouteilles reçu nous avons constater que c'était possible de fixer un moteur pas à pas qui
@@ -21,3 +21,10 @@ Séance du 19 Février 2018:
 
 Nous avons commencé à coder la partie qui concerne le moteur qui va faire tourner le support. Le but est de faire reconnaître
 à la carte de quel côté est plus proche la bouteille désirée pour faire tourner le moteur dans le sens correct. 
+
+Séance du 12 Mars 2018:
+
+Nous avons mis en relation le travail fait de la part de tout le monde pendant les vacances. Une fois le code tu servo moteur
+qui va soulever la tige pour le doseur écrit, nous l'avons mis à la suite du code du moteur pas à pas qui tournera les bouteilles.
+Nous avons rencontré des difficultés au niveau des pas du moteur. Lorsque nous mettons les deux programmes ensemble, nous arrivons
+pas à faire tourner les bouteilles le nombre de pas qu'on veut, il fait moins de pas que ce on veut.
