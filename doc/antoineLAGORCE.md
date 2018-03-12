@@ -22,3 +22,8 @@ on a fait une liste des objets a découpés:
 - une tige de longueur 13 cm et de diamtre 1 cm
 - un demi-cercle de diametre 8cm qui va etre fixé sur la tigue pour répartir la force de la tige 
 - des plaques en bois que nous allons découpé pour fixer le cervo moteur, la tige et pour faire un socle pour le verre afin de cacher le systeme pour faire monter la tige
+
+
+
+séance du 12/03/2018:
+nous avons assambler les programmes des deux moteurs avec celui du bluetooth. c'est a dire que : on envoyer une commande avec l'application sur le téléphone, en fonction de la commande, le moteur à courant continue tourne dans différents sens (dans le but de faire tourner l'axe avec les bouteilles et de s'arreter à l'endroit où l'on veut) puis le servo moteur se met en marche afin de monter une tige qui verse la bouteille dans le verre, puis à nouveau le moteur à courant continue, le servo moteur ... 
