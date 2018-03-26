@@ -16,3 +16,6 @@ https://www.cdiscount.com/vin-champagne/accessoires-vin/distributeur-de-boisson-
 
 Seance du 19/02/2018 :
 J'ai travaillé sur le servo-moteur, trouvé un moteur assez puissant pour lever les valves et regardé quelques codes pour me souvenir de comment ils fonctionnent. J'ai fait fonctionné la puce HC-06 qui ne fonctionnait pas la semaine dernière. 
+
+Séance du 12/03/2018:
+J'ai réalisé les différentes fonctions pour chaque cokctail, j'ai du donc assembler les codes pour bluetooth, le servo moteur et le moteur pas a pas  dans un seul programme regroupant tous ces programmes. Pour chaque fonction, il a fallu utiliser des différentes combinaisons entre l'ordre des fonctions prédéfinies pour le servo moteur et le moteur pas à pas.
