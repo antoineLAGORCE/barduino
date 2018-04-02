@@ -12,10 +12,10 @@ de placer certains aimant et utiliser l'effet hall comme dans les roues de vélo
 
 ## LISTE DU MATRIEL NECESSAIRE
   - [x] Servo moteur;
-  - [x] Moteur continu;
-  - [x] Moteur pas à pas
-  - [ ] Tige métalique;
-  - [x] 6 Doseurs de 25ml;
+  - [x] Moteur pas à pas;
+  - [ ] Tige imprimée en 3D avec son support vertical;
+  - [ ] Support de fixation du moteur pas à pas;
+  - [ ] Helice entrainant le support des bouteilles;
   ### Dont le matériel à commander est
   - [x] Support pour les bouteilles
   ![Support por les bouteilles](https://pmcdn.priceminister.com/photo/1138043004.jpg "Support por les bouteilles")
