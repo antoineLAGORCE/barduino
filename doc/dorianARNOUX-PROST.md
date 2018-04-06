@@ -19,3 +19,6 @@ J'ai travaillé sur le servo-moteur, trouvé un moteur assez puissant pour lever
 
 Séance du 12/03/2018:
 J'ai réalisé les différentes fonctions pour chaque cokctail, j'ai du donc assembler les codes pour bluetooth, le servo moteur et le moteur pas a pas  dans un seul programme regroupant tous ces programmes. Pour chaque fonction, il a fallu utiliser des différentes combinaisons entre l'ordre des fonctions prédéfinies pour le servo moteur et le moteur pas à pas.
+
+Séance du 05/04/2018:
+J'ai modifié les fonctions des cocktails de maniere a ce que les cables ne s'emmelent pas quand la machine tourne. J'ai aussi testé l'assistant de commande vocale google, pour que le programme réagisse au noms des cockatils.
