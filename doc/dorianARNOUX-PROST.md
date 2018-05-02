@@ -22,3 +22,6 @@ J'ai réalisé les différentes fonctions pour chaque cokctail, j'ai du donc ass
 
 Séance du 05/04/2018:
 J'ai modifié les fonctions des cocktails de maniere a ce que les cables ne s'emmelent pas quand la machine tourne. J'ai aussi testé l'assistant de commande vocale google, pour que le programme réagisse au noms des cockatils.
+
+Seance du 02/05/2018:
+J'ai dessiné les parties rondes que l'on va fixer sur les doseurs du bar, nous allons finalement partir sur du bois au lieu du plastique (fragile) de l'imprimante 3D.
