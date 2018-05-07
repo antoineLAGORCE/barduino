@@ -25,3 +25,6 @@ J'ai modifié les fonctions des cocktails de maniere a ce que les cables ne s'em
 
 Seance du 02/05/2018:
 J'ai dessiné les parties rondes que l'on va fixer sur les doseurs du bar, nous allons finalement partir sur du bois au lieu du plastique (fragile) de l'imprimante 3D.
+
+Séance du 07/05/2018:
+Dans la semaine on est allé récupérer les nouvelles pièces à l'imprimante 3D et découpé les rondins de bois que nous allons fixer sur les doseurs. Je me suis renseigné sur les tiges en pvc qui existent afin d'en avoir sous la main si la tige en plastique de l'imprimante 3D n'est pas assez solide.
