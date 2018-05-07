@@ -27,3 +27,14 @@ on a fait une liste des objets a découpés:
 
 séance du 12/03/2018:
 nous avons assambler les programmes des deux moteurs avec celui du bluetooth. c'est a dire que : on envoyer une commande avec l'application sur le téléphone, en fonction de la commande, le moteur à courant continue tourne dans différents sens (dans le but de faire tourner l'axe avec les bouteilles et de s'arreter à l'endroit où l'on veut) puis le servo moteur se met en marche afin de monter une tige qui verse la bouteille dans le verre, puis à nouveau le moteur à courant continue, le servo moteur ... 
+
+
+
+seance 2/05/2018 :
+j'ai réflechis à l'assemblage des pieces (par exemple viser un support en bois sur la tige qui permet d'actionner les doseurs). j'ai finis de limer les pièces imprimer à l'imprimante 3D pour qu'elles puissents s'assembler. 
+
+
+seance du 7/05/2018:
+j'ai recuperé les rislans pour pouvoir attacher les cercles en bois aux doseurs afin de répartir la force qui va être appliquée. j'ai découpé les orreils du moteur car elles empechées les bouteilles de tourner. 
+
+
