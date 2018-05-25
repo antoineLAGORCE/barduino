@@ -14,9 +14,9 @@ bluetooth.
   - [x] Servo moteur;
   - [x] Moteur pas à pas;
   - [x] Puce bluetooth;
-  - [ ] Tige imprimée en 3D avec son support vertical;
-  - [ ] Support de fixation du moteur pas à pas;
-  - [ ] Helice entrainant le support des bouteilles;
+  - [x] Tige imprimée en 3D avec son support vertical;
+  - [x] Support de fixation du moteur pas à pas modélisé;
+  - [x] Helice entrainant le support des bouteilles;
   ### Dont le matériel à commander est
   - [x] Support pour les bouteilles
   ![Support pour les bouteilles](https://pmcdn.priceminister.com/photo/1138043004.jpg "Support por les bouteilles")
