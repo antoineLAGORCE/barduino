@@ -15,6 +15,12 @@ nous avons réalisé un planning peu détailler de ce que nous allons faire.
 
 
 
+séance du 19/01/2018:
+nous avons finalisaé la conception de notre projet. en effet, nous avons décidé de faire tourner les bouteilles et non le verre. 
+puis, nous avons commandé le materiel principale dont noud avons besion. 
+
+
+
 séance du 19/02/2018:
 nous avons fini le programme bluetooth.
 on a fait une liste des objets a découpés:
@@ -26,12 +32,19 @@ on a fait une liste des objets a découpés:
 
 
 séance du 12/03/2018:
-nous avons assambler les programmes des deux moteurs avec celui du bluetooth. c'est a dire que : on envoyer une commande avec l'application sur le téléphone, en fonction de la commande, le moteur à courant continue tourne dans différents sens (dans le but de faire tourner l'axe avec les bouteilles et de s'arreter à l'endroit où l'on veut) puis le servo moteur se met en marche afin de monter une tige qui verse la bouteille dans le verre, puis à nouveau le moteur à courant continue, le servo moteur ... 
+nous avons assambler les programmes des deux moteurs avec celui du bluetooth. c'est a dire que : on envoyer une commande avec l'application sur le téléphone, en fonction de la commande, le moteur à courant continue tourne dans différents sens (dans le but de faire tourner l'axe avec les bouteilles et de s'arreter à l'endroit où l'on veut) puis le servo moteur se met en marche afin de monter
+une tige qui verse la bouteille dans le verre, puis à nouveau le moteur à courant continue, le servo moteur ... 
 
+
+
+séance 5/04/2018:
+nous avons trouvé une application sur le téléphone qui comprend la reconnaissance vocale. nous avons rencontré quelques problème pour pouvoir mettre ce que nous disions sur le telephone dans une variable afin de pouvoir faire les différents coktails.
 
 
 seance 2/05/2018 :
+nous avons réglé les problèmes liés à la reconnaissance vocale. 
 j'ai réflechis à l'assemblage des pieces (par exemple viser un support en bois sur la tige qui permet d'actionner les doseurs). j'ai finis de limer les pièces imprimer à l'imprimante 3D pour qu'elles puissents s'assembler. 
+
 
 
 seance du 7/05/2018:
